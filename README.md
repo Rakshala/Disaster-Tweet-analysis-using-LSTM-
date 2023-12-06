@@ -16,4 +16,5 @@ To run this project locally, follow these steps:
 - For this project, we chose to use the models like LSTM, Stacked LSTM, Bidirectional LSTM,  Attention-based LSTM, and fine-tuned BERT for tweet categorization
 - Details regarding preprocessing steps, model architecture, training, and evaluation methodologies are documented in report
 
-
+Implemented By
+Rakshala Mukka,Keerthana Krishnamoorthy
